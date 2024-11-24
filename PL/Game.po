@@ -970,21 +970,21 @@ msgstr "krzak"
 #: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",A53C6C954D9D697D6682F88C721D943C"
 msgid "patrol"
-msgstr "patrol"
+msgstr "Patrol"
 
 #. Key:	CD96C9D74C242068206BA7A8EEC59016
 #. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",CD96C9D74C242068206BA7A8EEC59016"
 msgid "searching"
-msgstr "badawczy"
+msgstr "Przeszukuje"
 
 #. Key:	B81A5C774C8D62C35EC57C8F21538821
 #. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",B81A5C774C8D62C35EC57C8F21538821"
 msgid "chasing"
-msgstr "ściganie"
+msgstr "Ściganie"
 
 #. Key:	0EE138FF4DBC43D454E960A79C469FCE
 #. SourceLocation:	/Game/Blueprint/AI/NPC/NPCBase.Default__NPCBase_C.CharacterName
@@ -5982,14 +5982,14 @@ msgstr "Długie belki, które mogą utrzymać ciężar, są niezbędne przy budo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GlassTr123"
 msgid "玻璃地基（三角）"
-msgstr "SzklanyFundament (Trójkąt)"
+msgstr "Szklany Fundament (Trójkąt)"
 
 #. Key:	GlassTrFloor123
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GlassTrFloor123"
 msgid "玻璃地板（三角）"
-msgstr "SzklanaPodłoga (Trójkąt)"
+msgstr "Szklana Podłoga (Trójkąt)"
 
 #. Key:	GLZX
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6584,7 +6584,7 @@ msgstr "Winda"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SNDIBANSANJIAO2"
 msgid "水泥地板（三角）"
-msgstr "CementowaPodłoga (Trójkąt)"
+msgstr "Cementowa Podłoga (Trójkąt)"
 
 #. Key:	SNDIJIJIESHAO1233
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6598,7 +6598,7 @@ msgstr "Fundament wykonany z cementu, wygląda na solidny i może wytrzymać do�
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SNDJSANJIAO"
 msgid "水泥地基（三角）"
-msgstr "CementowyFundament (Trójkąt)"
+msgstr "Cementowy Fundament (Trójkąt)"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6654,14 +6654,14 @@ msgstr "Schody wykonane z drewna."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StoneDIJI"
 msgid "石材地基（三角）"
-msgstr "KamiennyFundament (Trójkąt)"
+msgstr "Kamienny Fundament (Trójkąt)"
 
 #. Key:	StoneFloor23
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StoneFloor23"
 msgid "石材地板（三角）"
-msgstr "KamiennaPodłoga (Trójkąt)"
+msgstr "Kamienna Podłoga (Trójkąt)"
 
 #. Key:	TDC
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6850,7 +6850,7 @@ msgstr "Wygląda solidnie i może utrzymać spory ciężar."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",woodsanjiao"
 msgid "木材地基（三角）"
-msgstr "DrewnianyFundament (Trójkąt)"
+msgstr "Drewniany Fundament (Trójkąt)"
 
 #. Key:	WUQIJIAZI
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7284,7 +7284,7 @@ msgstr "Piła łańcuchowa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DRD"
 msgid "剁肉刀"
-msgstr "tasak"
+msgstr "Tasak"
 
 #. Key:	DSX
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7298,7 +7298,7 @@ msgstr "Buty na wędrówki"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DTDC"
 msgid "方头大锤"
-msgstr "kwadratowy młotek"
+msgstr "Kwadratowy młotek"
 
 #. Key:	DWQ_Describe
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7914,7 +7914,7 @@ msgstr "Kanapka dla smakoszy"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F55"
 msgid "干(净水)"
-msgstr "sucha (czysta woda)"
+msgstr "Woda (czysta)"
 
 #. Key:	F56
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8299,21 +8299,21 @@ msgstr "Kolba do karabinu snajperskiego"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "Rozszerzony magazynek 7.62"
+msgstr "Powiększony magazynek 7.62"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "Rozszerzony magazynek 5.56"
+msgstr "Powiększony magazynek 5.56"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G15"
 msgid "9mm扩容弹夹"
-msgstr "Rozszerzony magazynek 9mm"
+msgstr "Powiększony magazynek 9mm"
 
 #. Key:	G16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8390,7 +8390,7 @@ msgstr "Celownik holograficzny"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,GDG"
 msgid "古代弓"
-msgstr "starożytny łuk"
+msgstr "Starożytny łuk"
 
 #. Key:	GY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8460,14 +8460,14 @@ msgstr "Hełm policyjny"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JZ"
 msgid "饺子"
-msgstr "kluska"
+msgstr "Kluski"
 
 #. Key:	KAOYU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,KAOYU"
 msgid "烤鱼"
-msgstr "grillowana ryba"
+msgstr "Grillowana ryba"
 
 #. Key:	LY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8495,70 +8495,70 @@ msgstr "Delikatna tkanina"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M100"
 msgid "燃烧箭头图纸"
-msgstr "Rysunek płonącej strzały"
+msgstr "Schemat: Strzała płonąca"
 
 #. Key:	M101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M101"
 msgid "照明箭头图纸"
-msgstr "Podświetlane rysunki strzałek"
+msgstr "Schemat: Strzała oświetlająca"
 
 #. Key:	M102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M102"
 msgid "穿甲箭头图纸"
-msgstr "Rysunek strzały przebijającej zbroję"
+msgstr "Schemat: Strzała przebijająca pancerz"
 
 #. Key:	M103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M103"
 msgid "爆炸箭头图纸"
-msgstr "Eksplodujące rysunki strzałek"
+msgstr "Schemat: Strzała eksplodująca"
 
 #. Key:	M104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Rysunki przynęt zapachowych"
+msgstr "Schemat: Przynęta zapachowa"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M105"
 msgid "风力发电机图纸"
-msgstr "Rysunki turbin wiatrowych"
+msgstr "Schemat: Turbina wiatrowa"
 
 #. Key:	M106
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M106"
 msgid "武士刀图纸"
-msgstr "Rysunki katany"
+msgstr "Schemat: Katana"
 
 #. Key:	M107
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M107"
 msgid "唐刀图纸"
-msgstr "Rysunki Tang Dao"
+msgstr "Schemat: Miecz Tang Dao"
 
 #. Key:	M108
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M108"
 msgid "电锯图纸"
-msgstr "Rysunki piły łańcuchowej"
+msgstr "Schemat: Piła łańcuchowa"
 
 #. Key:	M109
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M109"
 msgid "复合弓图纸"
-msgstr "Rysunki łuków złożonych"
+msgstr "Schemat: Łuk bloczkowy"
 
 #. Key:	M11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8572,28 +8572,28 @@ msgstr "Alkohol"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M110"
 msgid "战术匕首图纸"
-msgstr "Projekt sztyletu taktycznego"
+msgstr "Schemat: Sztylet taktyczny"
 
 #. Key:	M111
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M111"
 msgid "剁肉刀图纸"
-msgstr "Rysunki tasaka do mięsa"
+msgstr "Schemat: Tasak do mięsa"
 
 #. Key:	M112
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M112"
 msgid "方头大锤图纸"
-msgstr "Rysunki młota kowalskiego z kwadratową główką"
+msgstr "Schemat: Młot kowalski z kwadratową główką"
 
 #. Key:	M113
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M113"
 msgid "中世纪斧图纸"
-msgstr "Średniowieczne rysunki toporów"
+msgstr "Schemat: Średniowieczny topór"
 
 #. Key:	M12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9265,7 +9265,7 @@ msgstr "Zestaw do naprawy samochodu"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Rysunek strzałki przynęty"
+msgstr "Schemat: Strzała z wabikiem zapachowym"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9671,7 +9671,7 @@ msgstr "Filtr"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TD"
 msgid "唐刀"
-msgstr "Tang Dao"
+msgstr "Miecz Tang Dao"
 
 #. Key:	Tip_DKRWMBSY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9902,7 +9902,7 @@ msgstr "Leczenie przeziębienia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_YOUQITONG"
 msgid "油漆"
-msgstr "farba"
+msgstr "Farba"
 
 #. Key:	Tool_YQT_Descripotion
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9916,63 +9916,63 @@ msgstr "Można stosować do barwienia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_01"
 msgid "发动机图纸"
-msgstr "Rysunki silnika"
+msgstr "Schemat: Silnik (zwykły)"
 
 #. Key:	TZ_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_02"
 msgid "增速器图纸"
-msgstr "Zwiększanie szybkości rysowania"
+msgstr "Schemat: Silnik (wyścigowy)"
 
 #. Key:	TZ_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_03"
 msgid "燃油过滤器图纸"
-msgstr "rysunki filtra paliwa"
+msgstr "Schemat: Filtr paliwa"
 
 #. Key:	TZ_HJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_01"
 msgid "简易护甲图纸"
-msgstr "Proste plany zbroi"
+msgstr "Schemat: Pancerz (słaby)"
 
 #. Key:	TZ_HJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_02"
 msgid "中等护甲图纸"
-msgstr "Średni plan zbroi"
+msgstr "Schemat: Pancerz (średni)"
 
 #. Key:	TZ_HJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_03"
 msgid "高级护甲图纸"
-msgstr "Zaawansowane plany zbroi"
+msgstr "Schemat: Pancerz (mocny)"
 
 #. Key:	TZ_LT_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_01"
 msgid "普通轮胎图纸"
-msgstr "Zwykłe rysunki opon"
+msgstr "Schemat: Opona (zwykła)"
 
 #. Key:	TZ_LT_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_02"
 msgid "越野轮胎图纸"
-msgstr "Rysunki opon terenowych"
+msgstr "Schemat: Opona (terenowa)"
 
 #. Key:	TZ_LT_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_03"
 msgid "装甲轮胎图纸"
-msgstr "Rysunki opon pancernych"
+msgstr "Schemat: Opona (pancerna)"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10343,21 +10343,21 @@ msgstr "strzałka przynęta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W57"
 msgid "照明箭头"
-msgstr "podświetlana strzałka"
+msgstr "Strzała podświetlana"
 
 #. Key:	W58
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W58"
 msgid "燃烧箭头"
-msgstr "płonąca strzała"
+msgstr "Płonąca strzała"
 
 #. Key:	W59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W59"
 msgid "穿甲箭头"
-msgstr "strzała przebijająca zbroję"
+msgstr "Strzała przebijająca pancerz"
 
 #. Key:	W6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10371,14 +10371,14 @@ msgstr "Drewniana włócznia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W60"
 msgid "爆炸箭头"
-msgstr "eksplodująca strzała"
+msgstr "Strzała eksplodująca"
 
 #. Key:	W61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "przynęta zapachowa"
+msgstr "Strzała z przynętą zapachową"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12051,21 +12051,21 @@ msgstr "Poziom broni obuchowej"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,BSBJ"
 msgid "发出噪音半径"
-msgstr "promień hałasu"
+msgstr "Promień hałasu"
 
 #. Key:	CFTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CFTip"
 msgid "裁缝等级"
-msgstr "poziom krawiecki"
+msgstr "Poziom krawiectwa"
 
 #. Key:	CR
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CR"
 msgid "防御"
-msgstr "obrona"
+msgstr "Bbrona"
 
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12149,14 +12149,14 @@ msgstr "Poziom gotowania"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,QWXR"
 msgid "疟疾概率"
-msgstr "prawdopodobieństwo malarii"
+msgstr "Prawdopodobieństwo malarii"
 
 #. Key:	RSZYTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,RSZYTip"
 msgid "蛋白质消耗"
-msgstr "spożycie białka"
+msgstr "Spożycie białka"
 
 #. Key:	SJSCTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12205,7 +12205,7 @@ msgstr "Prawdopodobieństwo krwawienia"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XRTip"
 msgid "伤害"
-msgstr "szkoda"
+msgstr "Uszkodzenia"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12555,7 +12555,7 @@ msgstr "Zmień kolor"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarMend_UI_03"
 msgid "色彩还原"
-msgstr "odwzorowanie kolorów"
+msgstr "Odwzorowanie kolorów"
 
 #. Key:	CarMend_UI_04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12667,7 +12667,7 @@ msgstr "Mody"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,changebuildMesh"
 msgid "替换"
-msgstr "zastępować"
+msgstr "Wymień"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12870,7 +12870,7 @@ msgstr "Demontaż..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyBuild"
 msgid "拆除"
-msgstr "aby zburzyć"
+msgstr "Do rozbiórki"
 
 #. Key:	destroyHammer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13115,7 +13115,7 @@ msgstr "Czas palenia: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fixbuild"
 msgid "修理"
-msgstr "aby naprawić"
+msgstr "Do naprawy"
 
 #. Key:	FRCU01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13129,7 +13129,7 @@ msgstr "Brak odpowiedniego elementu!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FRCW02"
 msgid "已经放满了！"
-msgstr "To jest pełne!"
+msgstr "Pełne!"
 
 #. Key:	FSEJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14165,7 +14165,7 @@ msgstr "serwer nasłuchujący"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "Nazwa serwera:"
+msgstr "Nazwa serwera: "
 
 #. Key:	shanchu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14578,7 +14578,7 @@ msgstr "Pasek skrótów 6"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useDDFRJ"
 msgid "在电动缝纫机制作"
-msgstr "Twórz w elektrycznej maszynie do szycia"
+msgstr "Twórz za pomocą elektrycznej maszyny do szycia"
 
 #. Key:	useDRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14606,21 +14606,21 @@ msgstr "Buduj młotkiem budowlanym"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHXFYT"
 msgid "在化学反应台制作"
-msgstr "Twórz w stole chemicznym"
+msgstr "Twórz na stole chemicznym"
 
 #. Key:	useJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJGT"
 msgid "使用加工台制作"
-msgstr "Twórz w stole do obróbki"
+msgstr "Twórz na stole do obróbki"
 
 #. Key:	useJXJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJXJGT"
 msgid "使用机械加工台制作"
-msgstr "Twórz w zaawansowanym stole do obróbki"
+msgstr "Twórz na zaawansowanym stole do obróbki"
 
 #. Key:	useMTL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14634,7 +14634,7 @@ msgstr "Wypalaj w piecu węglowym"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useNYGJT"
 msgid "使用农业工具台制作"
-msgstr "Twórz w stole rolniczym"
+msgstr "Twórz na stole rolniczym"
 
 #. Key:	useRLL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14648,14 +14648,14 @@ msgstr "Wypalaj w piecu hutniczym"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYY"
 msgid "在制药仪制作"
-msgstr "Twórz w stole farmaceutycznym"
+msgstr "Twórz na stole farmaceutycznym"
 
 #. Key:	useZYZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "Twórz w stole farmaceutycznym"
+msgstr "Twórz na stole farmaceutycznym"
 
 #. Key:	WaterClear
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15005,7 +15005,7 @@ msgstr "Nie można użyć!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YXSZC001"
 msgid "游戏设置"
-msgstr "ustawienia gry"
+msgstr "Ustawienia gry"
 
 #. Key:	ZBJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15446,7 +15446,7 @@ msgstr "Przeciwciała na wirusa\r\nJeśli ilość przeciwciał osiągnie wartoś
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LG"
 msgid "乐观"
-msgstr "optymizm"
+msgstr "Optymizm"
 
 #. Key:	LLMS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15467,7 +15467,7 @@ msgstr "Wpływa na liczbę przedmiotów uzyskanych ze zbierania i demontażu ora
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LS"
 msgid "猎手"
-msgstr "myśliwy"
+msgstr "Myśliwy"
 
 #. Key:	LT_PTLT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15488,14 +15488,14 @@ msgstr "Opony terenowe"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_ZJLT"
 msgid "装甲轮胎"
-msgstr "opony pancerne"
+msgstr "Opony pancerne"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,MAIKE"
 msgid "麦克"
-msgstr "mikrofon"
+msgstr "Mikrofon"
 
 #. Key:	MALI
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15726,7 +15726,7 @@ msgstr "Fizycznie słaby"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJ"
 msgid "探险家"
-msgstr "poszukiwacz"
+msgstr "Poszukiwacz"
 
 #. Key:	TXJDescribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15761,21 +15761,21 @@ msgstr "szybko"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_LT"
 msgid "骆驼"
-msgstr "wielbłąd"
+msgstr "Wielbłąd"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_MYRH"
 msgid "免疫弱化"
-msgstr "Osłabiona odporność"
+msgstr "Zmniejszona odporność"
 
 #. Key:	TZ_MYZQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_MYZQ"
 msgid "免疫增强"
-msgstr "wzmocnienie odporności"
+msgstr "Zwiększona odporność"
 
 #. Key:	TZ_TF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16125,7 +16125,7 @@ msgstr "Zacznij od poziomu medycznego 1\r\nDziałanie leku +15%"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YXZS"
 msgid "医学知识"
-msgstr "wiedza medyczna"
+msgstr "Wiedza medyczna"
 
 #. Key:	YYJG
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
